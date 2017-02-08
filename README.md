@@ -4,7 +4,8 @@ BACON (BAsic-CONtamination-Search-Algorithm) is an algorithm that identifies pos
 
 To run: <code>python driver.py</code>
 
-<img src="https://github.com/csimmons155/BAsic-CONtamination-Search-Algorithm/blob/master/images/results.png">
+The result should look like:<br>
+<img width="530" height="200" src="https://github.com/csimmons155/BAsic-CONtamination-Search-Algorithm/blob/master/images/results.png">
 
 
 
